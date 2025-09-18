@@ -1,5 +1,5 @@
 <h1>Hey there 👋, I'm Devpriya!</h1>
-<p>I’m passionate about coding and highly interested in AI/ML always eager to learn and explore new technologies</p>
+<p>I’m passionate about programming and highly interested in AI/ML. always eager to learn and explore new technologies</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
