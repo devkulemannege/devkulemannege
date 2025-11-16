@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate developer who is highly interested in AI/ML and <br>always eager to learn and explore new technologies.
+A passionate developer who is highly interested in AI/ML and always eager to learn and explore new technologies.
 
 
 ## 🌐 Socials:
