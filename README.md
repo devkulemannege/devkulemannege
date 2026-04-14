@@ -1,5 +1,5 @@
 # 💫 About Me:
-Enthusiastic software developer with a strong focus on AI and machine learning, committed to continuous learning and exploring emerging technologies
+Aspiring software developer with a strong focus on AI and machine learning, committed to continuous learning and exploring emerging technologies
 
 
 ## 🌐 Socials:
